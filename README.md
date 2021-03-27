@@ -1,4 +1,4 @@
-### Hi there 👋
+### Node.js를 공부하고 있어요! 👋
 
 <!--
 **sanchoco/sanchoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
