@@ -6,7 +6,9 @@
 누구든지 소통하고 얘기하는 것을 좋아해요! 😄 <br>
 
 <h3 align=center>🖋 Blog<br>
-  <img  align=center src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
+  <a href="https://velog.io/@jguuun">
+    <img align=center src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
+  </a>
 </h3>
 
 
