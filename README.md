@@ -5,11 +5,12 @@
 지금은 Node.js를 공부하고 있어요 🌱 <br>
 누구든지 소통하고 얘기하는 것을 좋아해요! 😄 <br>
 
-<h3 align=center>블로그<br>
+<h3 align=center>🖋 Blog<br>
   <img  align=center src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
 </h3>
 
 
+<h3 align=center>✨ Tech Stack</h3>
 <div align=center style="display:flex">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
