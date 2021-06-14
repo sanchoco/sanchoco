@@ -5,11 +5,13 @@
 지금은 Node.js를 공부하고 있어요 🌱 <br>
 누구든지 소통하고 얘기하는 것을 좋아해요! 😄 <br>
 
-<h3 align=center>🖋 Blog<br>
+<h3 align=center>🖋 Blog</h3>
+  <div align=center style="display:flex">
   <a href="https://velog.io/@jguuun" target='_blank'>
     <img align=center src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
   </a>
-</h3>
+  </div>
+
 
 
 <h3 align=center>✨ Tech Stack</h3>
