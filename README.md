@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
-지금은 Node.js를 공부하고 있어요 🌱 <br>
+Node.js Back-end Developer <br>
 
 <h3 align=center>🖋 Blog</h3>
   <div align=center style="display:flex">
