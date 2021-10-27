@@ -2,7 +2,8 @@
 
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
-Node.js Back-end Developer <br>
+I'm a Node.js Back-end developer. 🖥 <br>
+</p>
 
 <h3 align=center>🖋 Blog</h3>
   <div align=center style="display:flex">
