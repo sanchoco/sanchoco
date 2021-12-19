@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
-I'm a Node.js Back-end developer. 🖥 <br>
+I'm Node.js Back-end developer. 🖥 <br>
 </p>
 
 <h3 align=center>🖋 Blog</h3>
