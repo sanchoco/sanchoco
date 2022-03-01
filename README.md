@@ -5,14 +5,6 @@
 I'm Node.js Back-end developer. 🖥 <br>
 </p>
 
-<h3 align=center>🖋 Blog</h3>
-  <div align=center style="display:flex">
-  <a href="https://velog.io/@jguuun" target='_blank'>
-    <img align=center src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
-  </a>
-  </div>
-
-
 
 <h3 align=center>✨ Tech Stack</h3>
 <div align=center style="display:flex">
@@ -26,6 +18,5 @@ I'm Node.js Back-end developer. 🖥 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-AA3333?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
